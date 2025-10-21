@@ -1,7 +1,10 @@
-BrainQuest!!!
-A fun Python board game where players navigate the brain to cure ‘examinophobia’. Features turn-based gameplay, obstacles, and health points.
-Play as aTylenol or Advil
-Look out for bacteria
-Don't worry you won't be eaten, just lose a life
-Koodos if you get a While Blood Cell
-Reach Hypothalamus first to win!!!
+# BrainQuest!!!
+
+BrainQuest is a fun Python board game where players navigate the brain to cure 'examinophobia'.  
+
+- **Play as:** Tylenol or Advil  
+- **Watch out for:** Bacteria (you won’t be eaten, but you’ll lose a life!)  
+- **Collect:** White Blood Cells for bonus points  
+- **Goal:** Reach the Hypothalamus first to win!  
+
+Features turn-based gameplay, obstacles, and health points. Have fun!
